@@ -6,7 +6,8 @@ Soy Desarrollador Web Full Stack Jr.
 Estudie en Universidad Tecnológica Nacional - Regional Tucumán la Tecnicatura Superior en Programación .
 Termine mi preparación como Full Stack en SoyHenry.
 
-Habilidades: HTML - CSS - SASS - Javascript - C# - WordPress -React - Redux - Node.js - Express - ORM Sequelize - SQLite - PosgrateSQL - MySQL - SQL Server
+**Habilidades**: 
+HTML - CSS - SASS - Javascript - C# - WordPress -React - Redux - Node.js - Express - ORM Sequelize - SQLite - PosgrateSQL - MySQL - SQL Server
 
 - 🔭 Estoy trabajando en Proyectos Individuales y Grupales en SoyHenry. 
 - 🌱 Estoy aprendiendo a desarrollar mis skills. 
