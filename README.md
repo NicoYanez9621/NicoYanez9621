@@ -29,7 +29,7 @@ Termine mi preparación como Full Stack en SoyHenry.
 - 📫 Cómo contactarme: airtonnicolasy1996@gmail.com 
 
 
- [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/airton-nicolas-yañez-90774320a/)  [<img src='https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png' alt='facebook' height='30'>](https://www.facebook.com/nico.yanez.3)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='34'>](https://www.instagram.com/nico_yanez96/)  
+ [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nicoyanez-fullstackdevelopment/)  [<img src='https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png' alt='facebook' height='30'>](https://www.facebook.com/nico.yanez.3)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='34'>](https://www.instagram.com/nico_yanez96/)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoYanez9621&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
