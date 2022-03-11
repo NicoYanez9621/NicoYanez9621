@@ -23,6 +23,8 @@ Termine mi preparación como Full Stack en SoyHenry.
 ![SQLite](https://img.shields.io/badge/-SQLite-0064a5?style=for-the-badge&logo=sqlite&logoColor=FAFAFA)
 ![MySQL](https://img.shields.io/badge/-MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=FAFAFA)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-F7DF1E?style=for-the-badge&logo=sql%20server&logoColor=success)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=success)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=333)
 
 - 🔭 Estoy trabajando en Proyectos Individuales y Grupales en SoyHenry. 
 - 🌱 Estoy aprendiendo a desarrollar mis skills. 
